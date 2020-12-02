@@ -18,3 +18,8 @@ In this program, I have create a GUI application which will let the user create 
 <br><br>
 <img src= "Using the Mouse for Annotation/window.png" width="300" height="300">
 <br><br>
+### 3. Resize Image using Trackbar
+In this program, I've to create a GUI application which will be an extension of the trackbar. In this program, only scaling up was implemented. My GUI application should be able to allow user to scale up as well as scale down an image. 
+<br><br>
+<img src= "Resize Image using Trackbar/resize_image.png" width="300" height="300">
+<br><br>
