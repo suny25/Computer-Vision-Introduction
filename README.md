@@ -23,3 +23,8 @@ In this program, I've to create a GUI application which will be an extension of 
 <br><br>
 <img src= "Resize Image using Trackbar/resize_image.png" width="300" height="300">
 <br><br>
+### 4. Implementation of Morphological Operations
+In this program, I've implement both the dilation and erosion from scratch and display the final (correct) image of both the operations. Create two video of intermediate steps of dilation and erosion using VideoWriter. 
+<br><br>
+<img src= "Implementation of Morphological Operations/dilate_erode.png" width="600" height="300">
+<br><br>
