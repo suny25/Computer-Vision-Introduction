@@ -31,6 +31,6 @@ In this program, I've implement both the dilation and erosion from scratch and d
 ### 5. Coin Detection
 In this Coin Detection program, I've apply various mophological operations and different thresholding techniques in this practical application.
 <br><br>
-<img src= "Coin Detection/data/images/CoinA.png" width="300" height="300">
-<img src= "Coin Detection/data/images/CoinB.png" width="300" height="300">
+<img src= "Coin Detection/data/images/CoinsA.png" width="300" height="300">
+<img src= "Coin Detection/data/images/CoinsB.png" width="500" height="300">
 <br><br>
