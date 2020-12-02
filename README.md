@@ -10,5 +10,5 @@ b. Write text on image: cv2.putText()
 c. Draw a line on image: cv2.line()
 <br>
 d. QR Detection: cv2.QRCodeDetector(), detectAndDecode()
-<br>
-<img src= "IDCard-Satya.png">
+<br><br>
+<img src= "QR Code Detector/IDCard-Satya.png">
