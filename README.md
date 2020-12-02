@@ -12,3 +12,9 @@ c. Draw a line on image: cv2.line()
 d. QR Detection: cv2.QRCodeDetector(), detectAndDecode()
 <br><br>
 <img src= "QR Code Detector/IDCard-Satya.png">
+<br><br>
+### 2. Using the Mouse for Annotation
+In this program, I have create a GUI application which will let the user create a bounding box around a face present in the input image and save the cropped face automatically.
+<br><br>
+<img src= "Using the Mouse for Annotation/window.png" width="300" height="300">
+<br><br>
