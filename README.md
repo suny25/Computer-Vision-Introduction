@@ -34,3 +34,12 @@ In this Coin Detection program, I've apply various mophological operations and d
 <img src= "Coin Detection/data/images/CoinsA.png" width="300" height="300">
 <img src= "Coin Detection/data/images/CoinsB.png" width="500" height="300">
 <br><br>
+### 6. Color Spaces
+In this program, I've implement OpenCV's cvtColor function from scratch for the following conversions:
+
+1. convertBGRtoGray function for converting BGR image to Grayscale image. (BGR = Blue-Green-Red)
+
+2. convertBGRtoHSV function for converting BGR image to HSV image. (HSV = Hue-Saturation-Value)
+<br><br>
+<img src= "Color Spaces/window.png" width="700" height="300">
+<br><br>
